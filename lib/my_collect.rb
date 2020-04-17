@@ -5,5 +5,5 @@ def my_collect(arr)
   yield(arr[n])
   n += 1
 end
-arr.upcase
+arr
 end
