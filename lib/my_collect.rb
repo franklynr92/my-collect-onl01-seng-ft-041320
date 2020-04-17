@@ -11,6 +11,6 @@ end
 end
 
 
-my_colect(arr[n]) do |n|
-  n.upcase
-end
+# my_colect(arr[n]) do |n|
+#   n.upcase
+# end
