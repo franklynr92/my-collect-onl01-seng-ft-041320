@@ -1,7 +1,7 @@
 def my_collect(arr)
   
   n = 0
-  arr = Array.new
+  arr = []
   while n < arr.length
   yield(arr[n])
   n += 1
@@ -11,6 +11,3 @@ arr
 end
 
 
-my_colect(arr[n]) do |n|
-  n.upcase
-end
