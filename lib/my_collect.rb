@@ -6,8 +6,10 @@ def my_collect(arr)
   n += 1
 end
 arr
-my_colect(arr[n]) do |n|
-  n.upcase
+
 end
 
 
+my_colect(arr[n]) do |n|
+  n.upcase
+end
