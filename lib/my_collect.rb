@@ -1,13 +1,13 @@
+
 def my_collect(arr)
   
   n = 0
   arr = []
   while n < arr.length
-  yield(arr[n])
-  n += 1
-end
-arr
+  	yield(arr[n]) #should we add whatever this returns to the array?
+  	n += 1
+  end
+  arr
 
 end
-
 
