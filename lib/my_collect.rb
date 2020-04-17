@@ -8,6 +8,8 @@ def my_collect(arr)
 end
 arr
 end
+else 
+  puts "this didn't work"
 end
 
 
