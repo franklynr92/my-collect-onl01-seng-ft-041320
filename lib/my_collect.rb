@@ -1,5 +1,5 @@
 def my_collect(arr)
-   if block_given?
+  
   n = 0
 
   while n < arr.length
@@ -7,6 +7,7 @@ def my_collect(arr)
   n += 1
 end
 arr
+
 end
 
 
