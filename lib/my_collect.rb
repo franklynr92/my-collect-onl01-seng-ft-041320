@@ -9,6 +9,6 @@ arr
 end
 
 
-# my_colect(n) do |n|
-#   n.upcase
-# end
+my_colect(n) do |n|
+  n.upcase
+end
