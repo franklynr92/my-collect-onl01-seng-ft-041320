@@ -7,3 +7,7 @@ def my_collect(arr)
 end
 arr
 end
+
+mycolect(arr) do |n|
+  n.upcase
+end
