@@ -8,8 +8,6 @@ end
 arr
 end
 
-arr = [n]
-
 my_colect(arr[n]) do |n|
    n.upcase
 end
