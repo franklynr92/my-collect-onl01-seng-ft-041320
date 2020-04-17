@@ -7,7 +7,7 @@ def my_collect(arr)
   n += 1
 end
 arr
-
+end
 end
 
 
