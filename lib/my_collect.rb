@@ -8,7 +8,7 @@ end
 arr
 end
 
-arr =[n]
+arr = [n]
 
 my_colect(arr[n]) do |n|
    n.upcase
