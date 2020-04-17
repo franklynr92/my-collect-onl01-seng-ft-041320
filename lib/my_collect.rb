@@ -8,6 +8,6 @@ end
 arr
 end
 
-def mycolect(arr) do |n|
-  n.upcase
-end
+# def mycolect(arr) do |n|
+#   n.upcase
+# end
