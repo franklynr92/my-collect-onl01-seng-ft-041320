@@ -1,4 +1,3 @@
-arr
 def my_collect(arr)
   n = 0
 
