@@ -8,6 +8,6 @@ end
 arr
 end
 
-mycolect(n) do |n|
+mycolect(arr[n]) do |n|
    n.upcase
 end
