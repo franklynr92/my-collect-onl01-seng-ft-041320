@@ -7,7 +7,7 @@ def my_collect(arr)
   	yield(arr[n]) #should we add whatever this returns to the array?
   	n += 1
   end
-  arr[]
+  arr
 
 end
 
